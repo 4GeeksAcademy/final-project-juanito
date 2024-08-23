@@ -8,7 +8,7 @@ export const Home = () => {
 
 	return (
 		<div className="text-center mt-5">
-			<h1>Hello dfdfdf!!</h1>
+			<h1>HELLOOO!!</h1>
 			<p>
 				hellllllooooo maxi 
 			</p>
